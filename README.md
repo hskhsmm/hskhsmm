@@ -28,5 +28,5 @@
 #### 🪪 License
 ![image](https://github.com/user-attachments/assets/ae11627b-66c4-47cc-83c1-478fbf0cd8fd)
 - AWS Certified Solutions Architect – Associate
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c55ed145-f29a-49a6-9e6f-083657c62476/ddd519c2-0705-4052-ae9f-40ee95f3b86a/image.png)
+![image](https://github.com/user-attachments/assets/1eff1926-9d47-473d-a433-ce67d3230039)
 - 네트워크 관리사 2급 
