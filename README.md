@@ -22,4 +22,11 @@
 
 #### 📚 Activities
 - 한림대학교 멋쟁이사자처럼 11기 아기사자 (2023.03 ~ 2023.12)
-- kakao x goorm DEEP DIVE 백엔드 과정 2회차 (2024.11 ~ 2025.06)
+- SeSAC AWS 클라우드 아키텍트 플러스 (2023.12 ~ 2024.05)
+
+
+
+#### 🪪 License
+- AWS Certified Solutions Architect – Associate
+  - https://www.credly.com/badges/31e9c1f9-9bde-4ab8-8209-4e302559b0c9/linked_in_profile
+- 네트워크 관리사 2급 
