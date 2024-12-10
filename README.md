@@ -26,6 +26,7 @@
 
 
 #### 🪪 License
+![image](https://github.com/user-attachments/assets/ae11627b-66c4-47cc-83c1-478fbf0cd8fd)
 - AWS Certified Solutions Architect – Associate
-  - https://www.credly.com/badges/31e9c1f9-9bde-4ab8-8209-4e302559b0c9/linked_in_profile
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c55ed145-f29a-49a6-9e6f-083657c62476/ddd519c2-0705-4052-ae9f-40ee95f3b86a/image.png)
 - 네트워크 관리사 2급 
