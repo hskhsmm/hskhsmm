@@ -1,7 +1,7 @@
 
-#### Archive
+#### 📒 Archive
 
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <br><br>
 
 
 #### 💻  Tech Stack
@@ -10,14 +10,14 @@
 <br>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon Web Services&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=Github Actions&logoColor=white"/> 
 <br>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/><br><br>
 
 
 #### 🛠️ Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> 
-<br>
+<br><br>
 
 
 
@@ -25,9 +25,11 @@
 #### 📚 Activities
 - 한림대학교 멋쟁이사자처럼 11기 (2023.03 ~ 2023.12)
 - SeSAC AWS 클라우드 아키텍트 플러스 (2023.12 ~ 2024.05)
+<br>
 
 
 
 #### 🪪 License
 - AWS Certified Solutions Architect – Associate<br>
-- 네트워크 관리사 2급 
+- 네트워크 관리사 2급
+<br>
