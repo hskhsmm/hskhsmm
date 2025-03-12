@@ -34,4 +34,5 @@
 #### 🪪 License
 - AWS Certified Solutions Architect – Associate<br>
 - 네트워크 관리사 2급
+- 리눅스 마스터 2급
 <br>
