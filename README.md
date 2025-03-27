@@ -35,3 +35,8 @@
 - 네트워크 관리사 2급
 - 리눅스 마스터 2급
 <br>
+<br>
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=hskhsmm)](https://solved.ac/hskhsmm)
