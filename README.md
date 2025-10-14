@@ -6,14 +6,14 @@
 #### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon&logoColor=white"/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-003545?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-
-<br><br>
 
 
 
