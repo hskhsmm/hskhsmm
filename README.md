@@ -24,6 +24,7 @@
 
 | Project | Description | Period |
 | :--- | :--- | :--- |
+| [1Million Campaign Orchestration](https://github.com/hskhsmm/1milion-campaign-orchestration-system) | 100만 트래픽 선착순 캠페인 시스템 — Redis Lua·Kafka 파이프라인, Terraform IaC, AI 자율 운영(MCP) | 2026.03 ~ |
 | [내 맘대로 캠페인](https://github.com/hskhsmm/event-driven-batch-kafka-system) | Kafka와 배치를 활용한 고성능 선착순 시스템 | 2025.12 ~ 2026.01 |
 | [Way To Earth](https://github.com/WayToEarth-Team/WayToEarth_BE) | 러닝 기록을 가상 여정·커뮤니티로 확장한 소셜 러닝 플랫폼 | 2025.08 ~ 2025.11 |
 | [MOVA](https://github.com/MOVA-Team/MOVA-BE) | AI 기반 맞춤형 영화 큐레이션 및 커뮤니티 서비스 | 2025.10 ~ 2025.11 |
