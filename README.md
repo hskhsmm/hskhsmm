@@ -9,9 +9,9 @@
 
 | 프로젝트 | 주요 내용 | 개발 기간 |
 | :--- | :--- | :--- |
-| [내 맘대로 캠페인 · 확장](https://github.com/hskhsmm/1milion-campaign-orchestration-system) | Redis-first 접수와 Kafka 기반 비동기 DB 반영 · 150만 건 정합성 검증 · Terraform·Ansible 운영 자동화 | 2026.03 ~ 2026.06 |
+| [내 맘대로 캠페인](https://github.com/hskhsmm/1milion-campaign-orchestration-system) | Redis-first 접수와 Kafka 기반 비동기 DB 반영 · 150만 건 정합성 검증 · Terraform·Ansible 운영 자동화 | 2026.03 ~ 2026.06 |
 | [Way To Earth](https://github.com/WayToEarth-Team/WayToEarth_BE) | 러닝 기록을 가상 여정과 크루 활동으로 연결한 소셜 러닝 플랫폼 · 캡스톤디자인 경진대회 수상 | 2025.08 ~ 2025.11 |
-| [내 맘대로 캠페인 · v1](https://github.com/hskhsmm/event-driven-batch-kafka-system) | Kafka·Redis·Spring Batch 기반 선착순 이벤트 시스템 · 확장 프로젝트의 초기 버전 | 2025.12 ~ 2026.01 |
+| [캠페인 · v1](https://github.com/hskhsmm/event-driven-batch-kafka-system) | Kafka·Redis·Spring Batch 기반 선착순 이벤트 시스템 · 확장 프로젝트의 초기 버전 | 2025.12 ~ 2026.01 |
 | [MOVA](https://github.com/MOVA-Team/MOVA-BE) | 영화 추천·리뷰·커뮤니티 서비스 | 2025.10 ~ 2025.11 |
 | [HabiGlow](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_90_BE) | 실패 경험까지 기록하고 공유하는 루틴 관리 서비스 | 2025.08 ~ 2025.09 |
 | [소멸예보제](https://github.com/hskhsmm/Somyeol-Forecast) | 도시 소멸 위험 예측 및 지역 활성화 정보 제공 서비스 | 2025.04 ~ 2025.05 |
