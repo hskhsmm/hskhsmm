@@ -12,23 +12,45 @@ def format_date(date_str):
         return date_str
 
 
-def format_post(title, link, published):
+def get_thumbnail(entry):
+    thumbnails = entry.get("media_thumbnail", [])
+    if thumbnails:
+        return thumbnails[0].get("url", "")
+    for enclosure in entry.get("enclosures", []):
+        if enclosure.get("type", "").startswith("image/"):
+            return enclosure.get("url", "")
+    content = entry.get("description") or entry.get("summary", "")
+    match = re.search(r'''<img\b[^>]*\bsrc\s*=\s*["']([^"']+)["']''', content, re.I)
+    return html.unescape(match.group(1)) if match else ""
+
+
+def format_post(title, link, published, thumbnail=""):
     title = re.sub(r"\s+", " ", html.unescape(title)).strip()
-    title = title.replace("\\", "\\\\").replace("[", "\\[").replace("]", "\\]")
-    date = format_date(published)
-    return f"- [{title}]({link})" + (f" · {date}" if date else "")
+    title = html.escape(title, quote=True).replace("|", "&#124;")
+    link = html.escape(link, quote=True).replace("|", "&#124;")
+    date = html.escape(format_date(published), quote=True)
+    image = ""
+    if thumbnail:
+        thumbnail = html.escape(thumbnail, quote=True).replace("|", "&#124;")
+        image = f'<a href="{link}"><img src="{thumbnail}" width="150" height="100" alt="{title}"></a><br/>'
+    return image + f'<a href="{link}"><strong>{title}</strong></a>' + (f"<br/><sub>{date}</sub>" if date else "")
 
 
-def create_blog_list(feed_url, max_posts=6):
+def create_blog_table(feed_url, max_posts=6):
     feed = feedparser.parse(feed_url)
     posts = [
-        format_post(entry["title"], entry["link"], entry.get("published", ""))
+        format_post(entry["title"], entry["link"], entry.get("published", ""), get_thumbnail(entry))
         for entry in feed.entries[:max_posts]
         if entry.get("title") and entry.get("link")
     ]
     if not posts:
         raise ValueError("RSS에 유효한 글이 없어 기존 목록을 유지합니다.")
-    return "\n".join(posts) + "\n"
+    rows = ["| | | |", "|---|---|---|"]
+    for offset in range(0, len(posts), 3):
+        row = posts[offset:offset + 3]
+        row += [""] * (3 - len(row))
+        rows.append("| " + " | ".join(row) + " |")
+    return "\n".join(rows) + "\n"
 
 
 def update_readme(readme_path, posts_content):
@@ -47,4 +69,4 @@ def update_readme(readme_path, posts_content):
 
 
 if __name__ == "__main__":
-    update_readme("README.md", create_blog_list("https://hskhsmm.tistory.com/rss"))
+    update_readme("README.md", create_blog_table("https://hskhsmm.tistory.com/rss"))
