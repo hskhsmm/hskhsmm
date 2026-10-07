@@ -32,8 +32,14 @@ def format_post(title, link, published, thumbnail=""):
     image = ""
     if thumbnail:
         thumbnail = html.escape(thumbnail, quote=True).replace("|", "&#124;")
-        image = f'<a href="{link}"><img src="{thumbnail}" width="150" height="100" alt="{title}"></a><br/>'
-    return image + f'<a href="{link}"><strong>{title}</strong></a>' + (f"<br/><sub>{date}</sub>" if date else "")
+        image = f'<a href="{link}"><img src="{thumbnail}" width="100" alt="{title}"></a>'
+    details = f'<a href="{link}"><strong>{title}</strong></a>' + (f"<br/><sub>{date}</sub>" if date else "")
+    return (
+        '<tr>\n'
+        f'  <td width="120" align="center">{image}</td>\n'
+        f'  <td align="left">{details}</td>\n'
+        '</tr>'
+    )
 
 
 def create_blog_table(feed_url, max_posts=6):
@@ -45,12 +51,7 @@ def create_blog_table(feed_url, max_posts=6):
     ]
     if not posts:
         raise ValueError("RSS에 유효한 글이 없어 기존 목록을 유지합니다.")
-    rows = ["| | | |", "|---|---|---|"]
-    for offset in range(0, len(posts), 3):
-        row = posts[offset:offset + 3]
-        row += [""] * (3 - len(row))
-        rows.append("| " + " | ".join(row) + " |")
-    return "\n".join(rows) + "\n"
+    return '<table>\n' + '\n'.join(posts) + '\n</table>\n'
 
 
 def update_readme(readme_path, posts_content):
