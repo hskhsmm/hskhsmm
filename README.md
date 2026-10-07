@@ -16,13 +16,6 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 
-### 📚 Activities
-- 멋쟁이사자처럼 11기 (2023.03 ~ 2023.12)
-- SeSAC AWS 클라우드 아키텍트 플러스 (2023.12 ~ 2024.05)
-- 구름톤 유니브 4기 (2025.03 ~ 2025.11)
-<br>
-
-
 ### 💻 Project
 
 | Project | Description | Period |
