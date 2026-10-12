@@ -3,7 +3,7 @@
 백엔드를 개발하며 성능과 데이터 정합성을 실험으로 확인합니다.
 배포와 장애 대응 과정에서 찾은 문제를 코드와 문서로 정리합니다.
 
-[Tech Blog](https://hskhsmm.tistory.com/)
+[![Tech Blog](https://img.shields.io/badge/Tech-Blog-blue?style=for-the-badge&logo=tistory)](https://hskhsmm.tistory.com/)
 
 ### Projects
 
