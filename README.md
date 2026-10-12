@@ -42,6 +42,10 @@
 <!-- BLOG-POST-LIST:START -->
 <table width="100%">
 <tr>
+  <td width="92" align="center"><a href="https://hskhsmm.tistory.com/entry/%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B0%80-%EB%81%9D%EB%82%AC%EB%8A%94%EB%8D%B0%EB%8F%84-ALB-%EC%9A%94%EA%B8%88%EC%9D%B4-%EB%82%98%EA%B0%84%EB%8B%A4-Terraform%EC%9C%BC%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%9D%98-%EC%83%9D%EC%84%B1%C2%B7%EC%82%AD%EC%A0%9C%EB%A5%BC-%EC%99%84%EC%84%B1%ED%95%9C-%EA%B8%B0%EB%A1%9D-1"><img src="https://blog.kakaocdn.net/dn/bo1v8W/dJMcabeLZHY/SxWjzHaYItKTjbXmYNiXK0/img.png" width="72" alt="테스트가 끝났는데도 ALB 요금이 나간다? Terraform으로 테스트 환경의 생성·삭제를 완성한 기록"></a></td>
+  <td align="left"><a href="https://hskhsmm.tistory.com/entry/%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B0%80-%EB%81%9D%EB%82%AC%EB%8A%94%EB%8D%B0%EB%8F%84-ALB-%EC%9A%94%EA%B8%88%EC%9D%B4-%EB%82%98%EA%B0%84%EB%8B%A4-Terraform%EC%9C%BC%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%9D%98-%EC%83%9D%EC%84%B1%C2%B7%EC%82%AD%EC%A0%9C%EB%A5%BC-%EC%99%84%EC%84%B1%ED%95%9C-%EA%B8%B0%EB%A1%9D-1"><strong>테스트가 끝났는데도 ALB 요금이 나간다? Terraform으로 테스트 환경의 생성·삭제를 완성한 기록</strong></a><br/><sub>2026.10.11</sub></td>
+</tr>
+<tr>
   <td width="92" align="center"><a href="https://hskhsmm.tistory.com/entry/Kafka-MQ-Reconciler-%EB%AC%B4%ED%95%9C-%EB%8C%80%EA%B8%B0%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99-%EB%B3%B5%EA%B5%AC%EA%B9%8C%EC%A7%80"><img src="https://blog.kakaocdn.net/dn/eUg9W7/dJMcagHo5ll/k61KRxSOeBBsWCmZznpnJK/img.png" width="72" alt="Kafka MQ Reconciler, 무한 대기에서 자동 복구까지"></a></td>
   <td align="left"><a href="https://hskhsmm.tistory.com/entry/Kafka-MQ-Reconciler-%EB%AC%B4%ED%95%9C-%EB%8C%80%EA%B8%B0%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99-%EB%B3%B5%EA%B5%AC%EA%B9%8C%EC%A7%80"><strong>Kafka MQ Reconciler, 무한 대기에서 자동 복구까지</strong></a><br/><sub>2026.10.07</sub></td>
 </tr>
@@ -60,10 +64,6 @@
 <tr>
   <td width="92" align="center"><a href="https://hskhsmm.tistory.com/entry/%ED%9D%A9%EC%96%B4%EC%A7%84-CodeDeploy-Shell-Script-Ansible-Playbook%EC%9C%BC%EB%A1%9C-%ED%91%9C%EC%A4%80%ED%99%94%ED%95%98%EA%B8%B0"><img src="https://blog.kakaocdn.net/dn/cwEH2X/dJMcaazfoA3/fN3n6xgTOLyf38euhv9ZAK/img.png" width="72" alt="흩어진 CodeDeploy Shell Script, Ansible Playbook으로 표준화하기"></a></td>
   <td align="left"><a href="https://hskhsmm.tistory.com/entry/%ED%9D%A9%EC%96%B4%EC%A7%84-CodeDeploy-Shell-Script-Ansible-Playbook%EC%9C%BC%EB%A1%9C-%ED%91%9C%EC%A4%80%ED%99%94%ED%95%98%EA%B8%B0"><strong>흩어진 CodeDeploy Shell Script, Ansible Playbook으로 표준화하기</strong></a><br/><sub>2026.07.11</sub></td>
-</tr>
-<tr>
-  <td width="92" align="center"><a href="https://hskhsmm.tistory.com/entry/%EB%A7%A4%EB%B2%88-%EC%86%90%EC%9C%BC%EB%A1%9C-%EB%81%84%EA%B3%A0-%EC%BC%9C%EB%8D%98-AWS-%EC%9D%B8%ED%94%84%EB%9D%BC-Ansible-Playbook%EC%9C%BC%EB%A1%9C-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0"><img src="https://blog.kakaocdn.net/dn/WYHI4/dJMcahSq0bc/3TNwrhyDFgXBPSmSQSCC8K/img.png" width="72" alt="매번 손으로 끄고 켜던 AWS 인프라, Ansible Playbook으로 자동화하기"></a></td>
-  <td align="left"><a href="https://hskhsmm.tistory.com/entry/%EB%A7%A4%EB%B2%88-%EC%86%90%EC%9C%BC%EB%A1%9C-%EB%81%84%EA%B3%A0-%EC%BC%9C%EB%8D%98-AWS-%EC%9D%B8%ED%94%84%EB%9D%BC-Ansible-Playbook%EC%9C%BC%EB%A1%9C-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0"><strong>매번 손으로 끄고 켜던 AWS 인프라, Ansible Playbook으로 자동화하기</strong></a><br/><sub>2026.06.30</sub></td>
 </tr>
 </table>
 <!-- BLOG-POST-LIST:END -->
