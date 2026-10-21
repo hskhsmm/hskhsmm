@@ -44,6 +44,10 @@
 <!-- BLOG-POST-LIST:START -->
 <table width="100%">
 <tr>
+  <td width="92" align="center"><a href="https://hskhsmm.tistory.com/entry/%EB%A1%A4%EB%B0%B1%EC%9D%80-%EC%84%B1%EA%B3%B5%ED%96%88%EB%8A%94%EB%8D%B0-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%99%9C-%EB%B3%B5%EA%B5%AC%EB%90%98%EC%A7%80-%EC%95%8A%EC%95%98%EC%9D%84%EA%B9%8C"><img src="https://blog.kakaocdn.net/dn/zFWjo/dJMcahmabBE/lAwpiQQFWBWRZDewsVxYY0/img.png" width="72" alt="롤백은 성공했는데, 서비스는 왜 복구되지 않았을까?"></a></td>
+  <td align="left"><a href="https://hskhsmm.tistory.com/entry/%EB%A1%A4%EB%B0%B1%EC%9D%80-%EC%84%B1%EA%B3%B5%ED%96%88%EB%8A%94%EB%8D%B0-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%99%9C-%EB%B3%B5%EA%B5%AC%EB%90%98%EC%A7%80-%EC%95%8A%EC%95%98%EC%9D%84%EA%B9%8C"><strong>롤백은 성공했는데, 서비스는 왜 복구되지 않았을까?</strong></a><br/><sub>2026.10.20</sub></td>
+</tr>
+<tr>
   <td width="92" align="center"><a href="https://hskhsmm.tistory.com/entry/%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B0%80-%EB%81%9D%EB%82%AC%EB%8A%94%EB%8D%B0%EB%8F%84-ALB-%EC%9A%94%EA%B8%88%EC%9D%B4-%EB%82%98%EA%B0%84%EB%8B%A4-Terraform%EC%9C%BC%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%9D%98-%EC%83%9D%EC%84%B1%C2%B7%EC%82%AD%EC%A0%9C%EB%A5%BC-%EC%99%84%EC%84%B1%ED%95%9C-%EA%B8%B0%EB%A1%9D-1"><img src="https://blog.kakaocdn.net/dn/bo1v8W/dJMcabeLZHY/SxWjzHaYItKTjbXmYNiXK0/img.png" width="72" alt="테스트가 끝났는데도 ALB 요금이 나간다? Terraform으로 테스트 환경의 생성·삭제를 완성한 기록"></a></td>
   <td align="left"><a href="https://hskhsmm.tistory.com/entry/%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B0%80-%EB%81%9D%EB%82%AC%EB%8A%94%EB%8D%B0%EB%8F%84-ALB-%EC%9A%94%EA%B8%88%EC%9D%B4-%EB%82%98%EA%B0%84%EB%8B%A4-Terraform%EC%9C%BC%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%9D%98-%EC%83%9D%EC%84%B1%C2%B7%EC%82%AD%EC%A0%9C%EB%A5%BC-%EC%99%84%EC%84%B1%ED%95%9C-%EA%B8%B0%EB%A1%9D-1"><strong>테스트가 끝났는데도 ALB 요금이 나간다? Terraform으로 테스트 환경의 생성·삭제를 완성한 기록</strong></a><br/><sub>2026.10.11</sub></td>
 </tr>
@@ -62,10 +66,6 @@
 <tr>
   <td width="92" align="center"><a href="https://hskhsmm.tistory.com/entry/K8s-%EC%99%B8%EB%B6%80-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-Pod%EA%B9%8C%EC%A7%80-%EB%8F%84%EB%8B%AC%ED%95%A0%EA%B9%8C"><img src="https://blog.kakaocdn.net/dn/ccCJ3L/dJMcabL8zX3/7mKcxRExkyX911fKpjPQtk/img.png" width="72" alt="[K8s] 외부 트래픽은 어떻게 Pod까지 도달할까?"></a></td>
   <td align="left"><a href="https://hskhsmm.tistory.com/entry/K8s-%EC%99%B8%EB%B6%80-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-Pod%EA%B9%8C%EC%A7%80-%EB%8F%84%EB%8B%AC%ED%95%A0%EA%B9%8C"><strong>[K8s] 외부 트래픽은 어떻게 Pod까지 도달할까?</strong></a><br/><sub>2026.08.13</sub></td>
-</tr>
-<tr>
-  <td width="92" align="center"><a href="https://hskhsmm.tistory.com/entry/%ED%9D%A9%EC%96%B4%EC%A7%84-CodeDeploy-Shell-Script-Ansible-Playbook%EC%9C%BC%EB%A1%9C-%ED%91%9C%EC%A4%80%ED%99%94%ED%95%98%EA%B8%B0"><img src="https://blog.kakaocdn.net/dn/cwEH2X/dJMcaazfoA3/fN3n6xgTOLyf38euhv9ZAK/img.png" width="72" alt="흩어진 CodeDeploy Shell Script, Ansible Playbook으로 표준화하기"></a></td>
-  <td align="left"><a href="https://hskhsmm.tistory.com/entry/%ED%9D%A9%EC%96%B4%EC%A7%84-CodeDeploy-Shell-Script-Ansible-Playbook%EC%9C%BC%EB%A1%9C-%ED%91%9C%EC%A4%80%ED%99%94%ED%95%98%EA%B8%B0"><strong>흩어진 CodeDeploy Shell Script, Ansible Playbook으로 표준화하기</strong></a><br/><sub>2026.07.11</sub></td>
 </tr>
 </table>
 <!-- BLOG-POST-LIST:END -->
