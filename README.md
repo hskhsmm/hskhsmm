@@ -44,6 +44,10 @@
 <!-- BLOG-POST-LIST:START -->
 <table width="100%">
 <tr>
+  <td width="92" align="center"><a href="https://hskhsmm.tistory.com/entry/%EB%8B%A4%EC%8B%9C-JVM%EC%9D%84-%EA%B3%B5%EB%B6%80%ED%95%9C-%EC%9D%B4%EC%9C%A0-%E2%80%94-JIT-GC-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EB%A9%94%EB%AA%A8%EB%A6%AC"><img src="https://blog.kakaocdn.net/dn/yMZKk/dJMcaa1Lrc2/I5B5P2tgKblcK18Cwkurk0/img.png" width="72" alt="다시 JVM을 공부한 이유 - JIT, GC, 컨테이너 메모리"></a></td>
+  <td align="left"><a href="https://hskhsmm.tistory.com/entry/%EB%8B%A4%EC%8B%9C-JVM%EC%9D%84-%EA%B3%B5%EB%B6%80%ED%95%9C-%EC%9D%B4%EC%9C%A0-%E2%80%94-JIT-GC-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EB%A9%94%EB%AA%A8%EB%A6%AC"><strong>다시 JVM을 공부한 이유 - JIT, GC, 컨테이너 메모리</strong></a><br/><sub>2026.11.11</sub></td>
+</tr>
+<tr>
   <td width="92" align="center"><a href="https://hskhsmm.tistory.com/entry/%EB%A1%A4%EB%B0%B1%EC%9D%80-%EC%84%B1%EA%B3%B5%ED%96%88%EB%8A%94%EB%8D%B0-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%99%9C-%EB%B3%B5%EA%B5%AC%EB%90%98%EC%A7%80-%EC%95%8A%EC%95%98%EC%9D%84%EA%B9%8C"><img src="https://blog.kakaocdn.net/dn/zFWjo/dJMcahmabBE/lAwpiQQFWBWRZDewsVxYY0/img.png" width="72" alt="롤백은 성공했는데, 서비스는 왜 복구되지 않았을까?"></a></td>
   <td align="left"><a href="https://hskhsmm.tistory.com/entry/%EB%A1%A4%EB%B0%B1%EC%9D%80-%EC%84%B1%EA%B3%B5%ED%96%88%EB%8A%94%EB%8D%B0-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%99%9C-%EB%B3%B5%EA%B5%AC%EB%90%98%EC%A7%80-%EC%95%8A%EC%95%98%EC%9D%84%EA%B9%8C"><strong>롤백은 성공했는데, 서비스는 왜 복구되지 않았을까?</strong></a><br/><sub>2026.10.20</sub></td>
 </tr>
@@ -62,10 +66,6 @@
 <tr>
   <td width="92" align="center"><a href="https://hskhsmm.tistory.com/entry/Spring-Modulith%EB%A1%9C-%EB%AA%A8%EB%93%88%EB%9F%AC-%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8A%A4%EB%A5%BC-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EB%8A%94-%EC%98%88%EC%8B%9C"><img src="https://blog.kakaocdn.net/dn/ddwF4U/dJMcadwnite/7eghmBcxT9NPUCe3jIHMZK/img.png" width="72" alt="Spring Modulith로 모듈러 모놀리스를 적용해보는 예시"></a></td>
   <td align="left"><a href="https://hskhsmm.tistory.com/entry/Spring-Modulith%EB%A1%9C-%EB%AA%A8%EB%93%88%EB%9F%AC-%EB%AA%A8%EB%86%80%EB%A6%AC%EC%8A%A4%EB%A5%BC-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EB%8A%94-%EC%98%88%EC%8B%9C"><strong>Spring Modulith로 모듈러 모놀리스를 적용해보는 예시</strong></a><br/><sub>2026.08.30</sub></td>
-</tr>
-<tr>
-  <td width="92" align="center"><a href="https://hskhsmm.tistory.com/entry/K8s-%EC%99%B8%EB%B6%80-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-Pod%EA%B9%8C%EC%A7%80-%EB%8F%84%EB%8B%AC%ED%95%A0%EA%B9%8C"><img src="https://blog.kakaocdn.net/dn/ccCJ3L/dJMcabL8zX3/7mKcxRExkyX911fKpjPQtk/img.png" width="72" alt="[K8s] 외부 트래픽은 어떻게 Pod까지 도달할까?"></a></td>
-  <td align="left"><a href="https://hskhsmm.tistory.com/entry/K8s-%EC%99%B8%EB%B6%80-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-Pod%EA%B9%8C%EC%A7%80-%EB%8F%84%EB%8B%AC%ED%95%A0%EA%B9%8C"><strong>[K8s] 외부 트래픽은 어떻게 Pod까지 도달할까?</strong></a><br/><sub>2026.08.13</sub></td>
 </tr>
 </table>
 <!-- BLOG-POST-LIST:END -->
